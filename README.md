@@ -16,7 +16,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://expenses-chart-component-sepia.vercel.app/)
+- [Live Site URL:](https://expenses-chart-component-sepia.vercel.app/)
 
 ### Built with
 
