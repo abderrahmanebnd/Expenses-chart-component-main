@@ -33,7 +33,6 @@ body {
  place-content: center;
  width: 700px;
  margin: auto;
- background-color: #eee;
 }
 
 @media (max-width:767px) {
